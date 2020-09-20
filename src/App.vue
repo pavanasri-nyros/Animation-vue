@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Animations using Vue</h1>
     <div id="nav">
       <router-link to="/">Modal</router-link> |
       <router-link to="/list">List</router-link> |
